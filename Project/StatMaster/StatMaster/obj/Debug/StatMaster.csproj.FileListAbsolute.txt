@@ -1,1 +1,11 @@
 C:\Users\Liam\Desktop\Semester 4\StatMaster\Project\StatMaster\StatMaster\bin\Debug\StatMaster.exe.config
+C:\Users\Liam\Desktop\Semester 4\StatMaster\Project\StatMaster\StatMaster\bin\Debug\StatMasterDB.mdf
+C:\Users\Liam\Desktop\Semester 4\StatMaster\Project\StatMaster\StatMaster\bin\Debug\StatMasterDB_log.ldf
+C:\Users\Liam\Desktop\Semester 4\StatMaster\Project\StatMaster\StatMaster\bin\Debug\StatMaster.exe
+C:\Users\Liam\Desktop\Semester 4\StatMaster\Project\StatMaster\StatMaster\bin\Debug\StatMaster.pdb
+C:\Users\Liam\Desktop\Semester 4\StatMaster\Project\StatMaster\StatMaster\obj\Debug\StatMaster.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Desktop\Semester 4\StatMaster\Project\StatMaster\StatMaster\obj\Debug\StatMaster.Properties.Resources.resources
+C:\Users\Liam\Desktop\Semester 4\StatMaster\Project\StatMaster\StatMaster\obj\Debug\StatMaster.csproj.GenerateResource.Cache
+C:\Users\Liam\Desktop\Semester 4\StatMaster\Project\StatMaster\StatMaster\obj\Debug\StatMaster.exe
+C:\Users\Liam\Desktop\Semester 4\StatMaster\Project\StatMaster\StatMaster\obj\Debug\StatMaster.pdb
+C:\Users\Liam\Desktop\Semester 4\StatMaster\Project\StatMaster\StatMaster\obj\Debug\StatMaster.Form1.resources
