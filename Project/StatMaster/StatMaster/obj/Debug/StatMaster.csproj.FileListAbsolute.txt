@@ -1,1 +1,13 @@
 C:\Users\Liam\Desktop\Semester 4\StatMaster\Project\StatMaster\StatMaster\bin\Debug\StatMaster.exe.config
+C:\Users\Lucas\Documents\GitHub\StatMaster\Project\StatMaster\StatMaster\bin\Debug\StatMaster.exe.config
+C:\Users\Lucas\Documents\GitHub\StatMaster\Project\StatMaster\StatMaster\bin\Debug\StatMasterDB.mdf
+C:\Users\Lucas\Documents\GitHub\StatMaster\Project\StatMaster\StatMaster\bin\Debug\StatMasterDB_log.ldf
+C:\Users\Lucas\Documents\GitHub\StatMaster\Project\StatMaster\StatMaster\bin\Debug\StatMaster.exe
+C:\Users\Lucas\Documents\GitHub\StatMaster\Project\StatMaster\StatMaster\bin\Debug\StatMaster.pdb
+C:\Users\Lucas\Documents\GitHub\StatMaster\Project\StatMaster\StatMaster\obj\Debug\StatMaster.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\StatMaster\Project\StatMaster\StatMaster\obj\Debug\StatMaster.Properties.Resources.resources
+C:\Users\Lucas\Documents\GitHub\StatMaster\Project\StatMaster\StatMaster\obj\Debug\StatMaster.csproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\GitHub\StatMaster\Project\StatMaster\StatMaster\obj\Debug\StatMaster.exe
+C:\Users\Lucas\Documents\GitHub\StatMaster\Project\StatMaster\StatMaster\obj\Debug\StatMaster.pdb
+C:\Users\Lucas\Documents\GitHub\StatMaster\Project\StatMaster\StatMaster\obj\Debug\StatMaster.HomePage.resources
+C:\Users\Lucas\Documents\GitHub\StatMaster\Project\StatMaster\StatMaster\obj\Debug\StatMaster.NewGame.resources
